@@ -1,0 +1,14 @@
+{
+  "name": "webenfold/smtp",
+  "description": "Standalone - Simple Mail Transfer Protocol Plugin For PHP Applications. Cyzer JDB supported asynchronous execution.",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["SMTP", "SendGrid SMTP", "PHP Mail"],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "smtp\\": "./dist"
+    }
+  }
+}
